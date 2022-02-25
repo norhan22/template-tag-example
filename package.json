@@ -1,0 +1,29 @@
+{
+  "name": "template-tag-example",
+  "version": "1.0.0",
+  "description": "apply template tag example",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norhan22/template-tag-example.git"
+  },
+  "keywords": [
+    "template",
+    "html",
+    "js",
+    "advanced"
+  ],
+  "author": "norhan22",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/norhan22/template-tag-example/issues"
+  },
+  "homepage": "https://norhan22.github.io/template-tag-example",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
